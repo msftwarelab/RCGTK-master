@@ -1,0 +1,10 @@
+pkg/*
+doc/*
+coverage/*
+upgrade/*
+
+.yardoc/*
+
+*.gem
+
+Gemfile.lock
